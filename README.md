@@ -1,4 +1,4 @@
-# 🤖 AI SQL Assistant
+# 🤖 Aesha's AI SQL Assistant
 
 > **Ask questions in plain English. Get SQL. Get insights.**
 
